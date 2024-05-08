@@ -1,0 +1,66 @@
+@font-face{
+    font-family: homonetaR;
+    src:url('homoneta/otf/Homoneta-Regular.otf');
+}
+  
+  @font-face{
+    font-family: homonetaI;
+    src:url('homoneta/otf/Homoneta-Italic.otf');
+  }
+  
+  body{
+    background-color: black;
+  }
+  
+  h1{
+    background-color: white;
+    font-family: homonetaR;
+    color: black;
+    font-size:40vw;
+  }
+  
+  h2{
+    font-family: homonetaR;
+    font-size:10vw;
+  }
+  
+  h3{
+    background-color: white;
+    font-family: homonetaR;
+    color: black;
+    font-size: 5vw;
+  }
+  
+  pre{
+      font-family: homonetaR;
+      color: white;
+      font-size: 2vw;
+  }
+  
+  
+  p{
+      font-size: 10vw;
+  }
+  
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .wh{
+    background-color: White;
+    Color: Black;
+    font-size:200px;
+    width: 100%;
+    display: inline-block;
+  }
+  
+  .bk{
+    background-color: Black;
+    color: White;
+    font-size:200px;
+    width: 100%;
+    display: inline-block;
+  }
