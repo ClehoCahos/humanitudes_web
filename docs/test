@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> test </title>
+</head>
+<style>
+
+</style>
+ <a>bonjour monde</a>
+<body>
+  <video autoplay muted>
+    <source src="Assets/edylis.mp4"" type="video/mp4">
+  ther is error.
+  </video>
+<a> fin doc</a>
+
+</body>
+</html>
